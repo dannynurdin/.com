@@ -21,6 +21,9 @@ module.exports = {
           900: '#1c6c73'
         }
       },
+      fontFamily: {
+        'xanh': ['Xanh Mono', 'monospace']
+      },
     },
   },
   variants: {
