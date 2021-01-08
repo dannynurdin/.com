@@ -22,7 +22,8 @@ module.exports = {
         }
       },
       fontFamily: {
-        'xanh': ['Xanh Mono', 'monospace']
+        'xanh': ['Xanh Mono', 'monospace'],
+        'roboto': ['Roboto', 'sans-serif']
       },
     },
   },

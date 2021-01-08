@@ -26,12 +26,12 @@ const routes = [
     }
   },
   {
-    path: '/portfolio',
+    path: '/project',
     name: 'Portfolio',
     component: Portfolio
   },
   {
-    path: '/blog',
+    path: '/write',
     name: 'Blog',
     component: Blog
   }
