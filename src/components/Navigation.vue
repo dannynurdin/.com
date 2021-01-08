@@ -32,7 +32,7 @@
                         <li><router-link to="/" class="md:p-4 py-3 px-0 block border-b-2 border-transparent hover:border-indigo-400">Home</router-link></li>
                         <li><router-link to="/project" class="md:p-4 py-3 px-0 block border-b-2 border-transparent hover:border-indigo-400">Project</router-link></li>
                         <li><router-link to="/write" class="md:p-4 py-3 px-0 block border-b-2 border-transparent hover:border-indigo-400">Write</router-link></li>
-                        <li><router-link to="/#" class="md:p-4 py-3 px-0 block border-b-2 border-transparent hover:border-indigo-400">API</router-link></li>
+                        <li><router-link to="/api" target="_blank" class="md:p-4 py-3 px-0 block border-b-2 border-transparent hover:border-indigo-400">API</router-link></li>
                     </ul>
                 </nav>
             </div>

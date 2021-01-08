@@ -34,6 +34,10 @@ const routes = [
     path: '/write',
     name: 'Blog',
     component: Blog
+  },
+  {
+    path: '/api',
+    beforeEnter() {location.href = 'https://api.dannynurdin.com/'}
   }
 ]
 
