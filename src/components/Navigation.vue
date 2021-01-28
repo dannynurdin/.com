@@ -1,5 +1,5 @@
 <template>
-    <div class="antialiased">
+    <div class="absolute min-w-full antialiased shadow-lg">
         <nav class=" bg-white min-w-full font-sans hidden">
             <div class="flex justify-between items-center md:container md:mx-auto md:px-20 lg:px-32">
                 <div class="flex-none h-full text-2xl tracking-wide">DANNY</div>
@@ -25,7 +25,7 @@
             <label for="menu-toggle" class="pointer-cursor md:hidden block"><svg class="fill-current text-gray-900" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><title>menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path></svg></label>
             <input class="hidden" type="checkbox" id="menu-toggle" />
 
-            <div class="hidden md:flex md:items-center md:w-auto w-full" id="menu">
+            <div class="hidden md:flex md:items-center md:w-auto w-full z-20" id="menu">
                 <nav>
                     <ul class="md:flex items-center justify-between text-base text-gray-700 pt-4 md:pt-0">
                         
