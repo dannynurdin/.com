@@ -1,6 +1,6 @@
 <template>
-    <div class="absolute min-w-full antialiased shadow-lg">
-        <nav class=" bg-white min-w-full font-sans hidden">
+    <div class="absolute min-w-full antialiased bg-white shadow-lg">
+        <!-- <nav class="min-w-full font-sans hidden">
             <div class="flex justify-between items-center md:container md:mx-auto md:px-20 lg:px-32">
                 <div class="flex-none h-full text-2xl tracking-wide">DANNY</div>
                 <div class="flex flex-auto justify-end">
@@ -12,10 +12,10 @@
                     </menu>
                 </div> 
             </div>
-        </nav>
+        </nav> -->
 
         <!-- Header -->
-        <header class="lg:px-16 px-6 bg-white flex flex-wrap items-center lg:py-0 py-2 font-sans max-w-6xl mx-auto">
+        <header class="lg:px-16 px-6 bg-white flex flex-wrap items-center lg:py-0 py-2 md:h-13 font-sans mx-auto">
             <div class="flex-1 flex justify-between items-center">
                 <a href="/" class=" font-xanh text-2xl">
                     Danny

@@ -23,7 +23,14 @@ module.exports = {
       },
       fontFamily: {
         'xanh': ['Xanh Mono', 'monospace'],
-        'roboto': ['Roboto', 'sans-serif']
+        'roboto': ['Roboto', 'sans-serif'],
+        'roboto-slab': ['Roboto Slab', 'serif'],
+      },
+      height: {
+        13: '3.75rem',
+      },
+      padding: {
+        13:'3.75rem',
       },
     },
   },

@@ -1,6 +1,6 @@
 <template>
-    <div>
-        This is Blog View
+    <div class="top-0 min-h-screen pt-13">
+        Under Construction...
     </div>
 </template>
 
