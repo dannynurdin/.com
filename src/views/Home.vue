@@ -9,8 +9,8 @@
         <div class="col-span-2">
           <p class="md:text-6xl tracking-widest">Halo</p>
           <p class="md:text-6xl">Nama saya Danny</p>
-          <p class="md:text-4xl mt-4">seorang <del>lulusan</del>  Teknik Informatika yang tertarik menjadi <strong>web developer</strong>  dan <strong>cloud engineer</strong></p>
-          <p class="md:text-2xl mt-6">download resume saya <a class=" cursor-pointer text-blue-500" href="/">disini</a></p>
+          <p class="md:text-4xl mt-4">seorang <del>lulusan</del> Teknik Informatika yang tertarik menjadi <strong>web developer</strong>  dan <strong>cloud engineer</strong></p>
+          <p class="md:text-2xl mt-6">download resume saya <a class=" cursor-pointer text-blue-500" target="_blank" href="https://dannynurdin.s3-ap-southeast-1.amazonaws.com/Resume_Danny_Fachrul+Aliansyah+Nurdin.pdf">disini</a></p>
         </div>
       </div>
     </div>
